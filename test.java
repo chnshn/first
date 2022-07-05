@@ -3,6 +3,8 @@ public class test {
         System.out.println("heey");
         System.out.println("heeeeeeyyyy");
         System.out.println("siralama");
+        System.out.println("2.ders burdan itibaren");
+
 
 
     }
